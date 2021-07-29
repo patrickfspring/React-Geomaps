@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project2-react-geomaps/static/css/main.5e6b7cca.chunk.css",
+    "main.js": "/project2-react-geomaps/static/js/main.0d91edea.chunk.js",
+    "main.js.map": "/project2-react-geomaps/static/js/main.0d91edea.chunk.js.map",
+    "runtime-main.js": "/project2-react-geomaps/static/js/runtime-main.24a090ab.js",
+    "runtime-main.js.map": "/project2-react-geomaps/static/js/runtime-main.24a090ab.js.map",
+    "static/js/2.5ada6af0.chunk.js": "/project2-react-geomaps/static/js/2.5ada6af0.chunk.js",
+    "static/js/2.5ada6af0.chunk.js.map": "/project2-react-geomaps/static/js/2.5ada6af0.chunk.js.map",
+    "index.html": "/project2-react-geomaps/index.html",
+    "static/css/main.5e6b7cca.chunk.css.map": "/project2-react-geomaps/static/css/main.5e6b7cca.chunk.css.map",
+    "static/js/2.5ada6af0.chunk.js.LICENSE.txt": "/project2-react-geomaps/static/js/2.5ada6af0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24a090ab.js",
+    "static/js/2.5ada6af0.chunk.js",
+    "static/css/main.5e6b7cca.chunk.css",
+    "static/js/main.0d91edea.chunk.js"
+  ]
+}

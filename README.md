@@ -19,17 +19,17 @@ group by ranking_category, year
 order by year, ranking_category	
 
 The resultant output is:
-ranking_category	year	agency_id	points	name	              city
-creative        	2018	170	       786	AlmapBBDO	            Sao Paulo
-effective       	2018	3263	     270	Starcom 	            Chicago
-media           	2018	2124	     317	MediaCom	            London
-creative        	2019	292        403	BBDO    	            New York
-effective       	2019	2030       135	McCann  	            New Delhi
-media           	2019	2163	     202	MediaCom Connections	Tel Aviv
-effective       	2020	998        139	FP7 McCann	          Dubai
-media           	2020	3262       335	Starcom 	            Chicago
+ranking_category	year	agency_id	points	name	                    city
+creative        	2018	170	    	 786	AlmapBBDO	            Sao Paulo
+effective       	2018	3263	         270	Starcom 	            Chicago
+media           	2018	2124	         317	MediaCom	            London
+creative        	2019	292              403	BBDO    	            New York
+effective       	2019	2030             135	McCann  	            New Delhi
+media           	2019	2163	         202	MediaCom Connections	    Tel Aviv
+effective       	2020	998              139	FP7 McCann	            Dubai
+media           	2020	3262             335	Starcom 	            Chicago
 
-The React Simple Maps library was chosen to pull in a new library and give a visual representation for the results above.
+The React Simple Maps library was chosen to pull in a new library for this project  and give a visual representation for the results above.
 
 The following links were referenced for
 1.) Basics on how to get started in React
@@ -43,4 +43,3 @@ https://github.com/gitname/react-gh-pages
 along with many other articles on the internet
 
 By intention, the number of commits is low as republishing changes to this view was still a work in progress at the end of this project.
- 

@@ -1,6 +1,5 @@
-# project2-react-geomaps
-Project2 React Geomaps
-dynamic research and visualization of marketing awards data
+React Geomaps project
+Dynamic research and visualization of marketing awards data
 
 project proposal: https://docs.google.com/document/d/1bZ_-ASV5XOHIX9T2MjpD1ZhVM22xmtZt-qxxWJKWmhc/edit?usp=sharing
 
@@ -42,4 +41,4 @@ https://github.com/gitname/react-gh-pages
 
 along with many other articles on the internet
 
-By intention, the number of commits is low as republishing changes to this view was still a work in progress at the end of this project.
+By intention, the number of commits is low as republishing changes to this view was still a work in progress at the end of this effort.
